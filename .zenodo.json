@@ -1,0 +1,26 @@
+{
+    "description": "<p>pen source library for the estimative of hydrological functions, allowing a collaborative environment for the development of hydrological models and their interaction with GIS tools..</p>", 
+    "license": "other-open", 
+    "title": "ecotecnologias/Hydrolib: Second version", 
+    "version": "v0.2-beta", 
+    "upload_type": "software", 
+    "publication_date": "2020-08-15", 
+    "creators": [
+        {
+            "name": "ECOtecnologias: Daniel Allasia <dga@ufsm.br>, Vitor Geller <vitorgg_hz@hotmail.com>, Rutineia Tassi, Lucas Tassinari"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/ecotecnologias/Hydrolib/tree/v0.2-beta", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.3986823", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
